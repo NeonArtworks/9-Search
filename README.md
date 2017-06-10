@@ -8,6 +8,9 @@ It is very easy to use -> see examples below!
 ## Limitations
 It is only possible to download the first 10 posts from 9GAG.
 
+## Download
+You can download the .jar library here: https://www.mediafire.com/?bjx612v18584i6v
+
 ## Examples
 
 Get the first 10 posts from a section.
