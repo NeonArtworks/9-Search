@@ -6,10 +6,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
-import java.util.Set;
 
 import at.neonartworks.ninesearch.utils.GagSection;
 import at.neonartworks.ninesearch.utils.GagUtils;
