@@ -1,6 +1,10 @@
 # 9-Search
 9-Search is an unofficial 9GAG search api for Java. 
 
+## !!UPDATE!!
+We are currently working on a better library! 
+For more information visit: https://github.com/NeonArtworks/JGagV2
+
 ## Features
 9-Search allowes to search and download images and posts directly from 9Gag.
 It is very easy to use -> see examples below!
@@ -96,6 +100,4 @@ public class Search {
 }
 ```
 
-## Upgrades
-We are currently working on a better library! 
-For more information visit: https://github.com/Crimsonbit/JGag
+
